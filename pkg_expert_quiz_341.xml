@@ -10,7 +10,7 @@
   <license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
   <version>3.4.1.022</version>
   <files folder="packages">
-    <file type="component" id="com_joomlaquiz">com_joomlaquiz_expert.zip</file>
+    <file type="component" id="com_joomlaquiz">com_joomlaquiz_expert.zip1</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_lastten.zip</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_myresult.zip</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_topxquiz.zip</file>
