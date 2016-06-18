@@ -27,9 +27,9 @@
     <file type="plugin" id="mquestion" group="joomlaquiz">plg_mquestion.zip</file>
     <file type="plugin" id="mresponse" group="joomlaquiz">plg_mresponse.zip</file>
     <file type="plugin" id="puzzle" group="joomlaquiz">plg_puzzle.zip</file>
-    <file type="plugin" id="surveys" group="joomlaquiz">plg_surveys.zip</file>
     <file type="plugin" id="truefalse" group="joomlaquiz">plg_truefalse.zip</file>
     <file type="plugin" id="quiz_content" group="content">quiz_content_plugin.zip</file>
     <file type="plugin" id="quiz-xtd-button" group="content">quiz-xtd-button.zip</file>
+	<file type="plugin" id="surveys" group="joomlaquiz">plg_surveys.zip</file>
   </files>
 </extension>
