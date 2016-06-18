@@ -14,6 +14,7 @@
     <file type="module" id="joomlaquiz" client="site">mod_quiz_lastten.zip</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_myresult.zip</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_topxquiz.zip</file>
+    <file type="module" id="joomladfquiz" client="site">هوا</file>
     <file type="module" id="joomlaquiz" client="site">mod_quiz_topxusers.zip</file>
     <file type="plugin" id="blank" group="joomlaquiz">plg_blank.zip</file>
     <file type="plugin" id="boilerplate" group="joomlaquiz">plg_boilerplate.zip</file>
